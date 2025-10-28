@@ -2,7 +2,7 @@ class Dote < Formula
   desc "dote e command"
   homepage "https://github.com/rivero117/homebrew-dote"
   url "https://raw.githubusercontent.com/rivero117/homebrew-dote/main/dote.c"
-  sha256 "1543e01cacf2d1676c3f67548939dd13abe820d007e6f8dc74cd90ea7c6a002b"
+  sha256 "e6eb866d86b2f638446febe2af161d2c8c826b79db5c82a86dd8963b5b703f3d"
   version "1.0.2"
 
   def install
